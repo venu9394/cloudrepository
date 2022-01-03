@@ -13,7 +13,7 @@ public class TestControles {
 	
 	public String welcome(@PathVariable String message) {
 		
-		/*return "welcome to IBM";*/
+		/*return "welcome to IBM india";*/
 		return message;
 	}
 
